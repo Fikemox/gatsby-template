@@ -1,6 +1,6 @@
 {
-  "name": "teacher-sierra",
-  "description": "Teacher Sierra PW Page and Blog",
+  "name": "gastby-template",
+  "description": "An ESLint, Netlify Ready, Gatsby Template for spinning up websites.",
   "version": "1.0.0",
   "author": "Michael Fox",
   "dependencies": {
